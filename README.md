@@ -1,17 +1,16 @@
 # E-Commerce-MVC-
 A simple and functional E-Commerce web application built using ASP.NET Core MVC architecture. This project demonstrates the core features of an online store, including product listing, cart management, and order processing.
 
-🔧 Technologies Used
-.ASP.NET Core MVC
+# 🔧 Technologies Used
 
-Entity Framework Core
+-ASP.NET Core MVC
 
-SQL Server
+-Entity Framework Core
 
-Razor Views
+-SQL Server
 
-Bootstrap (for UI)
+-Razor Views
 
-LINQ
+-Bootstrap (for UI)
 
-
+-LINQ
