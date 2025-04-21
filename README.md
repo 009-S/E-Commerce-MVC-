@@ -3,14 +3,14 @@ A simple and functional E-Commerce web application built using ASP.NET Core MVC 
 
 # 🔧 Technologies Used
 
--ASP.NET Core MVC
+- ASP.NET Core MVC
 
--Entity Framework Core
+- Entity Framework Core
 
--SQL Server
+- SQL Server
 
--Razor Views
+- Razor Views
 
--Bootstrap (for UI)
+- Bootstrap (for UI)
 
--LINQ
+- LINQ
